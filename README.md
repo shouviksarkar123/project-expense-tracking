@@ -115,9 +115,7 @@ streamlit run app.py
 
 ## 📊 Dashboard Preview
 
-![Analytics UI](images/analytics_ui_demo1.png)
-
----
+![Analytics UI](project-expense-tracking/images/analytics_ui_demo1.png)
 
 ## 🔮 Future Improvements
 
