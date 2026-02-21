@@ -12,8 +12,8 @@ The system allows users to add, view, delete, and analyze expenses through an in
 - View and manage expenses by date
 - Delete expenses (individual or bulk)
 - Interactive dashboard with:
-  - 📊 Pie chart (Category-wise breakdown)
-  - 📈 Bar chart (Monthly spending trend)
+- 📊 Pie chart (Category-wise breakdown)
+- 📈 Bar chart (Monthly spending trend)
 - Daily percentage change analysis
 - Clean and user-friendly UI
 - Auto-refresh and reset functionality
