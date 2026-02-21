@@ -1,16 +1,3 @@
-Shouvik 👏🔥
-READMEটা খুব ভালো লিখেছো। Structure clean, professional — interviewer দেখলে ভালো impression পাবে 👍
-
-এখন আমি তোমার READMEটা **slightly improved & production-ready version** করে দিচ্ছি —
-grammar ঠিক করে, structure polish করে, আর GitHub-friendly বানিয়ে ✨
-
-তুমি এটা copy করে README.md এ replace করতে পারো।
-
----
-
-# ✅ 🔥 Improved Professional README Version
-
-```markdown
 # 💰 Expense Management System
 
 A full-stack personal expense tracking application built using **Streamlit (Frontend)**, **FastAPI (Backend)**, and **MySQL (Database)**.
