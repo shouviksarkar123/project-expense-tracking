@@ -122,7 +122,7 @@ streamlit run app.py
 ![Analytics Demo 2](https://raw.githubusercontent.com/shouviksarkar123/project_resources_Expense_Tracking_System/main/analytics_ui_demo2.png)
 
 ### 🖥️ Frontend UI
-![Frontend UI](https://raw.githubusercontent.com/shouviksarkar123/project_resources_Expense_Tracking_System/main/app_frontend_ui.png)
+![Frontend UI](https://raw.githubusercontent.com/shouviksarkar123/project_resources_Expense_Tracking_System/main/app_frontend_ui.png) 
 
 ## 🔮 Future Improvements
 
